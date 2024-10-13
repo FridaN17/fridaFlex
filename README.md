@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-
+## Screenshot of the project
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/e8a6d0c1-f08c-4639-9f16-b57baf3fe830">
+First Page
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
