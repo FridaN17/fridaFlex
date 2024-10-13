@@ -1,0 +1,100 @@
+#Dashboard {
+  margin: 20px 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1rem;
+}
+.dashForm {
+  position: relative;
+  flex: 30%;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  height: 70vh;
+  padding-left: 10px;
+}
+.dashName > p {
+  border-bottom: 1px solid lightgray;
+  background-color: lightgray;
+  margin-left: -10px;
+  padding-left: 10px;
+  color: white;
+  height: 40px;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+}
+
+.dashForm > form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+form > label {
+  font-size: 18px;
+  font-weight: 500;
+  color: black;
+}
+form > select {
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+}
+
+.gobackLink {
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+}
+.dashTable {
+  flex: 70%;
+
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  height: 70vh;
+}
+
+.dashTable > .dashSearch {
+  height: 40px;
+  background-color: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 20px;
+  position: relative;
+}
+
+.searchInput {
+  position: relative;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  background-color: rgb(222, 222, 222);
+}
+.dashModal {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.dashGroupModal {
+  display: flex;
+  flex-direction: column;
+}
+.dashDesc,
+.dashNotes {
+  width: 100%;
+}
+#Dashboard > .modalContent {
+  height: 500px;
+}
+.dashModalButtons {
+  padding-top: 20px;
+  padding-left: 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
