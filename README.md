@@ -1,7 +1,18 @@
 # Getting Started with Create React App
 ## Screenshot of the project
+## First Page 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/e8a6d0c1-f08c-4639-9f16-b57baf3fe830">
-First Page
+
+## Modal for creating new jobsites
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/9d805de1-36c9-4b68-9a9b-626d1c34831d">
+
+## Second Page with Dashboard
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/19794cee-31c4-4bb4-8f2b-e173193d4064">
+
+## Modal Updating Item 
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/181a4b0f-d7f5-49a4-b317-a73c810922c1">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
